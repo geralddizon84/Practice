@@ -45,7 +45,30 @@ class Home extends Component {
              </Toolbar>
             </AppBar>
         </div>
-
+        <Row>
+            <Col xs={12} sm={12} md={12} lg={12}>
+                <div class = "bgMain">
+                    <Row center="lg" center = "xs">
+                        <div class = " ">
+                            <p class = "mainTitle" >LOREM IPSUM</p>
+                            <hr/>
+                            <p class = "sideTitle" >BRINGING ENERGY SOLUTIONS TO YOU</p>
+                        </div>
+                    </Row>
+                </div>
+            </Col>
+        </Row>
+        <Row>
+            <Col lg={4} xs={12}>
+                <p>Gerald</p>
+            </Col>
+            <Col lg={4} xs={12}>
+                <p>Gerald</p>
+            </Col>
+            <Col lg={4} xs={12}>
+                <p>Gerald</p>
+            </Col>
+        </Row>
 
         </React.Fragment>
         
