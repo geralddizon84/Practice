@@ -1,11 +1,4 @@
-li{
-    float:left;
-    list-style-type: none;
-    padding: 15px 15px 15px 15px;
-    color:black;
-    font-size:12px;
-    line-height: 50px;
-  }
+
 ul{
   overflow: hidden;
   padding:0;
@@ -23,7 +16,4 @@ li:hover{
   width: 65px;
   height:65px;
   padding: 10px 0px 10px 0px;
-}
-.fas{
-  line-height: 50px;
 }
